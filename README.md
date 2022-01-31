@@ -9,12 +9,6 @@
 
 :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 writing code and design.
 
-
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/orbitturner/count.svg" />
-</p>
-
 #
  
 <p align="center">
