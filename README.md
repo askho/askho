@@ -5,7 +5,7 @@
 
 :computer: Full-stack Developer & web designer🎨 Web developer, 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Senegal
 
-:vulcan_salute: I mostly focus on 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 with 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, and I am a php lover.
+:vulcan_salute: I mostly focus on 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 with 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, and I am a <img width="25" src="https://cdn.svgporn.com/logos/php.svg"/> php lover.
 
 :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 writing code and design.
 
