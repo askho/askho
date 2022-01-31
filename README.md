@@ -5,13 +5,14 @@
 
 :computer: Full-stack Developer & web designer🎨 Web developer, 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Senegal
 
-:vulcan_salute: I mostly focus on 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 with 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 an angular & nest JS 𝒏𝒆𝒓𝒅.
+:vulcan_salute: I mostly focus on 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 with 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, and I am a php lover.
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 writing code and sharing knowledge.
+:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 writing code and design.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-%23E44D27?style=flat-square&logo=php&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
