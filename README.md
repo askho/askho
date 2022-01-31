@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### :point_right: Compétences
 #### Langages / Frameworks
-<img src="./assets/images/java.png" alt="java" title="Java"/>&nbsp;&nbsp; <img src="./assets/images/spring.ico" alt="spring" title="Spring"/>&nbsp;&nbsp; 
+<img src="https://th.bing.com/th/id/OIP.F7Gvy_aFbQJtioB1n7KqsQHaEL?w=266&h=180&c=7&r=0&o=5&pid=1.7" alt="java" title="Java"/>&nbsp;&nbsp; <img src="./assets/images/spring.ico" alt="spring" title="Spring"/>&nbsp;&nbsp; 
 <img src="./assets/images/typescript.png" alt ="typescript" title="Typescript"/>&nbsp;&nbsp; 
 <img src="./assets/images/angular.png" alt ="angular" title="Angular"/>&nbsp;&nbsp;
 <img src="./assets/images/groovy.png" alt ="groovy" title="Groovy"/>&nbsp;&nbsp;
