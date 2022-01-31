@@ -1,6 +1,7 @@
 ### Hi there 👋
+## My name is Adji!
 
-𝑰 ❤️ Software 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+𝑰 ❤️ Software and Web 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 :computer: Full-stack Developer & web designer🎨 Web developer, 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Senegal
 
