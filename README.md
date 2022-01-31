@@ -12,7 +12,7 @@
 #
  
 ________
-<h1 align="left">🤩 Know more about me 🤔</h1>
+<h1 align="left">Know more about me 🤔</h1>
 <p  align="left">
 <strong>My name is Adji Sakho and I'm 15.<br>
 I am passionate 💻Web developer, Designer and Software developer. I am also a screenwriter and a student.
@@ -79,7 +79,7 @@ ________
 <br>
 <br>
 
-<h1 align="left">😉 Some Stats !📈</h1>
+<h1 align="left">Some Stats !📈</h1>
 <p align="center">
 <a href="https://profile.codersrank.io/user/askho/">
   <img width="400"
@@ -104,36 +104,6 @@ ________
 <a href="mailto:adji4067@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@adji4067@gmail.com-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a
 </p>
 
-
-<br>
-<h2 align="left">My Most Visited Repos</h2>
-<div align="center">
-
-<a href="https://github.com/orbitturner/orbit-jwt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=orbit-jwt" />
-</a>
-
-<a href="https://github.com/orbitturner/array-querier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=array-querier" />
-</a>
-
-<a href="https://github.com/orbitturner/CLEAN-CODE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=CLEAN-CODE" />
-</a>
-
-<a href="https://github.com/orbitturner/Design-Pattern-Decorator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator" />
-</a>
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-<a href="https://orbitturner.com">
-  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=orbitturner&theme=onedark" />
-</a>
-</div>
 
 
 <!-- - [OIO PLATFORM](https://e-oio.com/) - *The first international and united learning platform.*. -->
