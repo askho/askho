@@ -23,7 +23,7 @@ I am passionate 💻Web developer, Designer and Software developer. I am also a 
 <br/>
 
 
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
+<h1 align="center">Most Used Technologies</h1>	
 
 <div align="center">
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
