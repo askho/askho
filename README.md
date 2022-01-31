@@ -4,7 +4,7 @@
 
 :computer: Full-stack Developer & web designer🎨 Web developer, 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Senegal
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 an angular & nest JS 𝒏𝒆𝒓𝒅.
+:vulcan_salute: I mostly focus on 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 with 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 an angular & nest JS 𝒏𝒆𝒓𝒅.
 
 :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 writing code and sharing knowledge.
 
@@ -25,7 +25,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![ADN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbabacarDieneNdiaye&show_icons=true&theme=chartreuse-dark)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbabacarDieneNdiaye&theme=chartreuse-dark)](https://git.io/streak-stats)
+![ADN's GitHub stats](https://github-readme-stats.vercel.app/api?username=askho&show_icons=true&theme=chartreuse-dark)
