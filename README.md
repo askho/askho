@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Adji!
+# My name is Adji!
 
 𝑰 ❤️ Software and Web 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
