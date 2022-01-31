@@ -80,7 +80,7 @@ ________
 <!---a href="https://www.linkedin.com/in/askho/"><img src="https://img.shields.io/badge/LINKEDIN-@askho-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a-->
 <!--a href="https://twitter.com/orbitturner"><img src="https://img.shields.io/badge/TWITTER-@orbitturner-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a-->
 <!--a href="https://facebook.com/orbitturner"><img src="https://img.shields.io/badge/FACEBOOK-@orbitturner-4267B2?style=for-the-badge&logo=facebook&logoColor=4267B2&logoWidth=25" alt="social_facebook"></a-->
-<a href="https://instagram.com/am_adji"><img src="https://img.shields.io/badge/INSTAGRAM-@am_adji-#405DE6?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
+<a href="https://instagram.com/am_adji"><img src="https://img.shields.io/badge/INSTAGRAM-@am_adji-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
 <a href="mailto:adji4067@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@adji4067@gmail.com-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a
 </p>
 
